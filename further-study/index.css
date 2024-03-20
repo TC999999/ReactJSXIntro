@@ -1,0 +1,90 @@
+.btn {
+  padding: 8px 10px;
+  font-size: 16px;
+  border: solid;
+  border-radius: 10px;
+  border-color: lightgrey;
+  background-color: lightgrey;
+  margin: 10px 10px;
+}
+
+.btn-primary {
+  border-color: blue;
+  background-color: blue;
+  color: white;
+}
+
+.btn-secondary {
+  border-color: darkgray;
+  background-color: darkgray;
+  color: white;
+}
+
+.btn-danger {
+  border-color: red;
+  background-color: red;
+  color: white;
+}
+
+.btn-warning {
+  border-color: yellow;
+  background-color: yellow;
+}
+
+.btn-info {
+  border-color: cyan;
+  background-color: cyan;
+  color: white;
+}
+
+.btn-success {
+  border-color: green;
+  background-color: green;
+  color: white;
+}
+
+.alert {
+  padding: 10px 10px;
+  font-size: 16px;
+  border: solid;
+  border-radius: 10px;
+  border-color: lightgrey;
+  background-color: lightgrey;
+  margin: 10px 0px;
+}
+
+.alert-primary {
+  border-color: rgb(143, 143, 245);
+  background-color: rgb(200, 235, 245);
+  color: rgb(55, 55, 236);
+}
+
+.alert-secondary {
+  border-color: darkgray;
+  background-color: lightgrey;
+  color: rgb(78, 76, 76);
+}
+
+.alert-success {
+  border-color: rgb(113, 157, 113);
+  background-color: rgb(210, 243, 210);
+  color: green;
+}
+
+.alert-danger {
+  border-color: rgb(250, 78, 78);
+  background-color: rgb(236, 191, 200);
+  color: rgb(250, 94, 94);
+}
+
+.alert-warning {
+  border-color: goldenrod;
+  background-color: rgb(244, 244, 175);
+  color: goldenrod;
+}
+
+.alert-info {
+  border-color: rgb(162, 251, 251);
+  background-color: rgb(171, 239, 239);
+  color: rgb(1, 88, 88);
+}
