@@ -1,0 +1,30 @@
+body {
+  background-color: blue;
+}
+
+h1 {
+  text-align: center;
+  color: aqua;
+}
+
+h2 {
+  text-align: center;
+  color: aqua;
+}
+
+.tweet {
+  border: solid;
+  border-color: black;
+  background-color: lightblue;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  width: 300px;
+  box-shadow: 10px 5px 5px black;
+}
+
+#all-tweets {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
